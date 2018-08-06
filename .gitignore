@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 .DS_Store
-/node_modules
-/web
+/package-lock.json
+/node_modules/
+/web/
