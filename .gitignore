@@ -2,6 +2,6 @@
 .idea
 .DS_Store
 /package-lock.json
-/docs/.vuepress/dist/
 /node_modules/
+/docs/.vuepress/dist/
 /web/
