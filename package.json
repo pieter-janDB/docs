@@ -1,4 +1,7 @@
 {
+  "name": "craft-docs",
+  "description": "Craft 3 documentation can be read at <https://docs.craftcms.com/v3/>.",
+  "private": true,
   "devDependencies": {
     "vuepress": "^0.11.0",
     "vuepress-theme-craftdocs": "^1.2.0"
